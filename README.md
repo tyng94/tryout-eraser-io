@@ -3,5 +3,9 @@
 # tryout-eraser-io
 [﻿System Architecture (example)](https://app.eraser.io/workspace/ZKVcEWzIqjSWMtRvYmbC) 
 
+![Figure 1](/.eraser/q7ZUUAncHbHUvm6jE2zj___FpRPJAT5j1ULHTWdQN44MwQLx9V2___---figure---Kjan5gb1B2mveZdMh8G74---figure---HFvq01vVrcmhtoitpla77Q.png "Figure 1")
+
+
+
 
 <!--- Eraser file: https://app.eraser.io/workspace/q7ZUUAncHbHUvm6jE2zj --->
